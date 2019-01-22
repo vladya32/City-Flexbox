@@ -40,7 +40,7 @@ p {
 
 .bg-dark {
     background: white;
-    color: black; 
+    color: rgb(247, 208, 208); 
 }
 
 .bg-primary {
@@ -156,7 +156,7 @@ p {
     padding: 0 2rem;
     /* Overlay */
     /* position: absolute; */
-    top: 60px;
+    top: 65px;
     left: 0;
     background-color: rgba(0, 0, 0, 0.3);
 }
@@ -233,4 +233,8 @@ label {
 
 .contact-form h2, .contact-form p {
     text-align: center;
+}
+
+.main-footer {
+    background: #201d1d;
 }
